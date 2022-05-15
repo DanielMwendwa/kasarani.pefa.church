@@ -1,23 +1,47 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+widget: slider  # Use the Slider widget as this page section
+weight: 10  # Position of this section on the page
+active: true  # Publish this section?
+headless: true  # This file represents a page section.
 
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
+  slide_height: '400px'
+  is_fullscreen: false
+  # Automatically transition through slides?
+  loop: true
+  # Duration of transition between slides (in ms)
+  interval: 3000
+
+content:
+  slides:
+    - title: 👋 Welcome to Kasarani PEFA Church
+      content: Home...
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: banner.jpeg
+    - title: 
+      content: ''
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: contact.jpg
+    - title: 
+      content: ''
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: contact.jpg
+      link:
+        icon: 
+        icon_pack: 
+        text: 
+        url:
 ---
-
-<br>
-
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
