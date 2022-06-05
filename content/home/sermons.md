@@ -24,4 +24,5 @@ design:
 {{< video library="true" src="videos/test.mp4" controls="yes" >}}
 
 <br>
+
 {{< cta cta_text="more sermons →" cta_link="/sermons" cta_new_tab="false" >}}
