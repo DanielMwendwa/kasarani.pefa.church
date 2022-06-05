@@ -12,11 +12,16 @@ design:
 
   # Use a dark navy background with light text.
   background:
-    color: '#6fcbe0'
+    # color: '#6fcbe0'
+    gradient_angle: 0
+    gradient_start: 'rgb(224,223,255)'
+    gradient_end: 'rgb(153,238,255)'
     # text_color_light: true
   spacing:
     padding: ['20px', '0']
 ---
-{{< youtube 7JUY-3758gw >}}
+<!-- {{< youtube 7JUY-3758gw >}} -->
+{{< video library="true" src="videos/test.mp4" controls="yes" >}}
+
 <br>
 {{< cta cta_text="more sermons →" cta_link="/sermons" cta_new_tab="false" >}}
