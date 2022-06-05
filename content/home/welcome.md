@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to Kasarani PEFA Church
+    - title: 👋 
       content: Home...
       align: center
       background:
