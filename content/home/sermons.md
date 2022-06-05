@@ -15,7 +15,7 @@ design:
     color: '#6fcbe0'
     # text_color_light: true
   spacing:
-    padding: ['10px', '0']
+    padding: ['20px', '0']
 ---
 {{< youtube 7JUY-3758gw >}}
 <br>
