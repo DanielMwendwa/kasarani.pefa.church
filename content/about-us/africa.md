@@ -4,7 +4,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: <strong>A</strong>
-subtitle: Africa 🌍
+subtitle: <small>of</small> Africa 🌍
 weight: 8  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
