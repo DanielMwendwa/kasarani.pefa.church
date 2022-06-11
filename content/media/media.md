@@ -8,7 +8,7 @@ title: Sermons
 subtitle:
 
 content:
-  count: 1
+  count: 5
   filters:
     author: ''
     category: ''
