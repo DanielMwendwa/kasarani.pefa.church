@@ -16,18 +16,15 @@ main:
   - name: Media
     url: media
     weight: 40
-  - name: Notes
-    url: notes
-    weight: 50
   - name: Blog
     url: post
-    weight: 60
+    weight: 50
   - name: Give
     url: give
-    weight: 70
+    weight: 60
   - name: Events
     url: event
-    weight: 80
+    weight: 70
   - name: Homecells
     url: homecells
-    weight: 90
+    weight: 80
