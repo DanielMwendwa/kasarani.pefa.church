@@ -5,20 +5,29 @@
 
 main:
   - name: Home
-    url:
+    url: /
     weight: 10
   - name: About Us
     url: people
     weight: 20
-  - name: Sermons
-    url: sermons
+  - name: Media
+    url: media
     weight: 30
-  - name: Give
-    url: give
+  - name: Notes
+    url: notes
     weight: 40
   - name: Blog
     url: post
     weight: 50
+  - name: Give
+    url: give
+    weight: 60
   - name: Events
     url: event
-    weight: 60
+    weight: 70
+  - name: Homecells
+    url: homecells
+    weight: 80
+  - name: Gallery
+    url: gallery
+    weight: 90
