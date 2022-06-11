@@ -1,25 +1,27 @@
 ---
-widget: blank
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
 headless: true
+weight: 25
 
-# ... Put Your Section Options Here (title etc.) ...
-title: Latest Sermon ⛪️
-subtitle: God's call to Obedience
-weight: 25  # section position on page
+title: 
+subtitle:
+
+content:
+  count: 1
+  filters:
+    author: ''
+    category: ''
+    exclude_featured: false
+    publication_type: ''
+    tag: ''
+  offset: 0
+  order: desc
+  page_type: sermons
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
+  view: 3
   columns: '1'
-
-  # Use a dark navy background with light text.
-  background:
-    # color: '#6fcbe0'
-    gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
-    # text_color_light: true
   spacing:
-    padding: ['20px', '0']
+    padding: ['10px', '0', '20px']
 ---
-{{< youtube 7JUY-3758gw >}}
-<br>
-{{< cta cta_text="more sermons →" cta_link="/sermons" cta_new_tab="false" >}}
+<strong>Latest Sermons:</strong>
