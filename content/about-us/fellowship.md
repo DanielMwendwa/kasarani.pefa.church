@@ -14,4 +14,4 @@ design:
   spacing:
     padding: ['2px', '0', '0']
 ---
-God designed His Church to be a {{<hl>}}fellowship{{</hl>}} (<strong>Ephesians 2:19-22</strong>)(<strong>Proverbs 27:17 NLT</strong>)
+➡︎ God designed His Church to be a {{<hl>}}fellowship{{</hl>}} (<strong>Ephesians 2:19-22</strong>)(<strong>Proverbs 27:17 NLT</strong>)

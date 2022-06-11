@@ -14,4 +14,4 @@ design:
   spacing:
     padding: ['2px', '0', '0']
 ---
-{{<hl>}}Evangelism{{</hl>}} is designed for the church and the church is designed for evangelism.
+➡︎ {{<hl>}}Evangelism{{</hl>}} is designed for the church and the church is designed for evangelism.

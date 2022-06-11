@@ -14,4 +14,4 @@ design:
   spacing:
     padding: ['2px', '0', '20px']
 ---
-We promote scriptual order, worship, unity and fellowship in the work of the Lord, reaching out into the entire Continent of {{<hl>}}Africa and the whole world at large.{{</hl>}}
+➡︎ We promote scriptual order, worship, unity and fellowship in the work of the Lord, reaching out into the entire Continent of {{<hl>}}Africa and the whole world at large.{{</hl>}}

@@ -14,4 +14,4 @@ design:
   spacing:
     padding: ['25px', '0', '0']
 ---
-Derived from the Book of Acts and the event of {{<hl>}}Pentecost{{</hl>}} (<strong>Acts 2</strong>)
+➡︎ Derived from the Book of Acts and the event of {{<hl>}}Pentecost{{</hl>}} (<strong>Acts 2</strong>)
