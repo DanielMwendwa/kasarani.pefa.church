@@ -12,4 +12,4 @@ design:
   spacing:
     padding: ['25px', '0', '0']
 ---
-Derived from the Book of Acts and the event of Pentecostt. Acts 2.
+Derived from the Book of Acts and the event of Pentecost. Acts 2.
