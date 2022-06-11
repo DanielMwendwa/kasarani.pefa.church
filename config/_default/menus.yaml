@@ -8,26 +8,26 @@ main:
     url: /
     weight: 10
   - name: About Us
-    url: people
+    url: about-us
     weight: 20
+  - name: People
+    url: people
+    weight: 30
   - name: Media
     url: media
-    weight: 30
+    weight: 40
   - name: Notes
     url: notes
-    weight: 40
+    weight: 50
   - name: Blog
     url: post
-    weight: 50
+    weight: 60
   - name: Give
     url: give
-    weight: 60
+    weight: 70
   - name: Events
     url: event
-    weight: 70
+    weight: 80
   - name: Homecells
     url: homecells
-    weight: 80
-  - name: Gallery
-    url: gallery
     weight: 90
