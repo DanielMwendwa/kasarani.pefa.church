@@ -11,8 +11,7 @@ design:
   columns: '1'
   # Use a dark navy background with light text.
   background:
-    color: gray
-    text_color_light: true
+    color: "#a3bdd4"
   spacing:
     padding: ['20px', '0']
 ---
