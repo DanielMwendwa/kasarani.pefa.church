@@ -23,5 +23,8 @@ design:
   columns: '1'
   spacing:
     padding: ['10px', '0', '20px']
+  background:
+    color: "#101a24"
+    text_color_light: true
 ---
-<strong>Latest Sermons:</strong>
+<strong>Recent Sermons:</strong>

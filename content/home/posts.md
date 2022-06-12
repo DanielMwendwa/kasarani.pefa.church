@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 30
 
-title: Latest Posts
+title: Recent Posts
 subtitle:
 
 content:
@@ -21,4 +21,7 @@ content:
 design:
   view: 2
   columns: '1'
+  background:
+    color: "#101a24"
+    text_color_light: true
 ---

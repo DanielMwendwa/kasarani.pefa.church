@@ -11,6 +11,9 @@ design:
   columns: '2'
   spacing:
     padding: ['60px', '0', '0px', '0']
+  background:
+    color: "#101a24"
+    text_color_light: true
 ---
 
 <iframe style="border-radius:12px" 
