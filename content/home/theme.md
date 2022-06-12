@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Year of devine Advancement
+title: ✨<strong>Year of devine Advancement</strong>✨
 subtitle:
 weight: 20  # section position on page
 design:
@@ -11,8 +11,8 @@ design:
   columns: '1'
   # Use a dark navy background with light text.
   background:
-    color: 'navy'
-    text_color_light: true
+    color: "#a3bdd4"
+    # text_color_light: true
   spacing:
     padding: ['20px', '0']
 ---
