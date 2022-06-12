@@ -23,22 +23,22 @@ content:
         color: '#666'
         brightness: 0.7
         media: banner.jpeg
-    - title: 
-      content: ''
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: contact.jpg
-    - title: 
-      content: ''
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: contact.jpg
+    # - title: 
+    #   content: ''
+    #   align: left
+    #   background:
+    #     position: center
+    #     color: '#555'
+    #     brightness: 0.7
+    #     media: contact.jpg
+    # - title: 
+    #   content: ''
+    #   align: right
+    #   background:
+    #     position: center
+    #     color: '#333'
+    #     brightness: 0.5
+    #     media: contact.jpg
       link:
         icon: 
         icon_pack: 
