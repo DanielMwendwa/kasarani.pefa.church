@@ -25,4 +25,6 @@ design:
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
 </iframe>
 
+<p class="pt-2">Listen to other sermons by clicking below:</p>
+
 {{< cta cta_text=" Spotify →" cta_link="https://open.spotify.com/episode/3PfpkQUUZGFqButjgXGP8e?si=atw5jMBMRvm9WVQUTuZxLA" cta_new_tab="true" >}}
