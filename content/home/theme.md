@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: ✨<strong>Year of devine Advancement</strong>✨
+title: ✨<strong>Year of divine Advancement</strong>✨
 subtitle:
 weight: 20  # section position on page
 design:
