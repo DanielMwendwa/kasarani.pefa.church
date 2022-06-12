@@ -25,4 +25,4 @@ design:
     </div>
 </section>
 <br>
-{{< cta cta_text="View events →" cta_link="/sermons" cta_new_tab="false" >}}
+{{< cta cta_text="View events →" cta_link="/event" cta_new_tab="false" >}}
