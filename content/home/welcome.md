@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome
-      content: Home...
+    - title:
+      content: ''
       align: center
       background:
         position: right
