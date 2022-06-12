@@ -9,9 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: |
-  Ministers/Elders😎
-  To be updated soon... 😂😂
+# title: |
+#   Ministers/Elders😎
+#   To be updated soon... 😂😂
 
 subtitle:
 
