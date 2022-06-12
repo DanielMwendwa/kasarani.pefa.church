@@ -4,7 +4,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: ✨<strong>Year of divine Advancement</strong>✨
-subtitle:
+subtitle: <span class="blockquote-footer">From the Book of <cite title="Source Title">Isaiah 43:19</cite></span>
 weight: 20  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

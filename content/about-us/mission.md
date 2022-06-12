@@ -16,4 +16,4 @@ design:
     padding: ['2rem', 0, '2rem', 0]
 ---
 <p class="h6 text-monospace">We exist to build and expand the Kingdom of God, by preaching and teaching the holistic Gospel of Jesus Christ for the transformation and fulfillment of lives.</p>
-<span class="blockquote-footer">From the Gospel of<cite title="Source Title">Mat 28:20 NIV</cite></span>
+<span class="blockquote-footer">From the Gospel of <cite title="Source Title">Mat 28:20 NIV</cite></span>
