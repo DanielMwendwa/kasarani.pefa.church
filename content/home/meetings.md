@@ -13,16 +13,31 @@ design:
   background:
     color: "#d6e8f0"
   spacing:
-    padding: ['2rem', 0, '2rem', 0]
+    padding: ['2rem', 0, '0', 0]
 ---
 
-<section class="border">
-    <div class="text-center">
-        <strong><p class="text-monospace">TUESDAY 7:00PM-7:30PM : BIBLE STUDY </p></strong>
-        <strong><p class="text-monospace">WEDNESDAY 7:00PM-7:30PM : HOME FELLOWSHIPS </p></strong>
-        <strong><p class="text-monospace">FRIDAY 7:00PM-7:30PM : PRAYER MEETINGS </p></strong>
-        <strong><p class="text-monospace">SATURDAY 4:30PM-5:30PM : YOUTH MEETINGS </p></strong>
-    </div>
-</section>
+<div class="text-center">
+    <strong class="text-monospace">
+        <div>TUESDAY 7:00PM-7:30PM</div>
+        <div>BIBLE STUDY</div>
+    </strong>
+    <hr />
+    <strong class="text-monospace">
+        <div>WEDNESDAY 7:00PM-7:30PM</div>
+        <div>HOME FELLOWSHIPS</div>
+    </strong>
+    <hr />
+    <strong class="text-monospace">
+        <div>FRIDAY 7:00PM-7:30PM</div>
+        <div>PRAYER MEETINGS</div>
+    </strong>
+    <hr />
+    <strong class="text-monospace">
+        <div>SATURDAY 4:30PM-5:30PM</div>
+        <div>YOUTH MEETINGS</div>
+    </strong>
+</div>
+
 <br>
-{{< cta cta_text="View events →" cta_link="/event" cta_new_tab="false" >}}
+
+{{< cta cta_text="Sunday Services →" cta_link="/media" cta_new_tab="false" >}}
