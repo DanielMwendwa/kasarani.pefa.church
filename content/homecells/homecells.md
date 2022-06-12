@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: <strong>Homecells</strong>
+title: <strong>Home Fellowship</strong>
 subtitle: --summary--
 weight: 10  # section position on page
 design:
