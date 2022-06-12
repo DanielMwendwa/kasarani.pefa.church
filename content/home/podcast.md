@@ -22,4 +22,4 @@ design:
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
 </iframe>
 
-{{< cta cta_text=" Spotify →" cta_link="https://open.spotify.com/episode/3PfpkQUUZGFqButjgXGP8e?si=atw5jMBMRvm9WVQUTuZxLA" cta_new_tab="false" >}}
+{{< cta cta_text=" Spotify →" cta_link="https://open.spotify.com/episode/3PfpkQUUZGFqButjgXGP8e?si=atw5jMBMRvm9WVQUTuZxLA" cta_new_tab="true" >}}

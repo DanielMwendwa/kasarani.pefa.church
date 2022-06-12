@@ -21,6 +21,4 @@ content:
 design:
   view: 2
   columns: '1'
-  background:
-    color: "#a3bdd4"
 ---
