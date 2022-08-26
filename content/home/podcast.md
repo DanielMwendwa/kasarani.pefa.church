@@ -4,7 +4,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Podcasts
-subtitle: To be updated soon.. Lorem ipsum **dolor sit amet**, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue.
+subtitle: Welcome to the weekly podcast of PEFA Church, Kasarani led by Rev Joseph Chokera. Get practical, relevant, biblical perspectives on topics that matter to you.
 weight: 28  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
